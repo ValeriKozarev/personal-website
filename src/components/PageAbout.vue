@@ -2,15 +2,15 @@
   <p>about page</p>
 
   <h2>Some Albums that I like:</h2>
-  <div>{{getRandomizedAlbums().title}}</div>
+  <div class="card album">{{getRandomizedAlbums().title}}</div>
 
   <h2>Some Books that I like:</h2>
-  <div v-for="book in books" :key="book.title">
+  <div v-for="book in books" :key="book.title" class="card book">
     <div>{{book.title}}</div>
   </div>
 
   <h2>Some Games that I like:</h2>
-  <div v-for="game in games" :key="game.title">
+  <div v-for="game in games" :key="game.title" class="card game">
     <div>{{game.title}}</div>
   </div>
 </template>
@@ -40,5 +40,13 @@ export default {
 </script>
 
 <style scoped>
-
+.album {
+  background-color: aquamarine;
+}
+.book {
+  background-color: bisque;
+}
+.game {
+  background-color: coral;
+}
 </style>

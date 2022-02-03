@@ -1,5 +1,11 @@
 <template>
-  <p>home page</p>
+  <div class="card">
+    <div class="card-content">
+      <div class="content">
+        this is the page home component!
+      </div>
+    </div>
+  </div>
 </template>
 
 <script>
