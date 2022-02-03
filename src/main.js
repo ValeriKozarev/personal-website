@@ -1,4 +1,24 @@
 import { createApp } from 'vue'
+import * as VueRouter from 'vue-router'
 import App from './App.vue'
+import PageHome from '@/components/PageHome'
+import PageAbout from '@/components/PageAbout'
+import PagePortfolio from '@/components/PagePortfolio'
 
-createApp(App).mount('#app')
+// define routes
+const routes = [
+  { path: '/', component: PageHome },
+  { path: '/about', component: PageAbout },
+  { path: '/portfolio', component: PagePortfolio }
+]
+
+// instantiate router
+const router = VueRouter.createRouter({
+  history: VueRouter.createWebHashHistory(),
+  routes: routes
+})
+
+// create our Vue instance and link it with the router
+const app = createApp(App)
+app.use(router)
+app.mount('#app')
