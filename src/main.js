@@ -14,7 +14,7 @@ const routes = [
 
 // instantiate router
 const router = VueRouter.createRouter({
-  history: VueRouter.createWebHashHistory(),
+  history: VueRouter.createWebHistory(),
   routes: routes
 })
 
