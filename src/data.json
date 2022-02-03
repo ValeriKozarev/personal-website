@@ -5,5 +5,18 @@
       "artist": "Tash Sultana",
       "artwork": ""
     }
+  ],
+  "games": [
+    {
+      "title": "The Witcher 3",
+      "artwork": ""
+    }
+  ],
+  "books": [
+    {
+      "title": "Dune",
+      "author": "Frank Herbert",
+      "artwork": ""
+    }
   ]
 }
