@@ -1,8 +1,8 @@
 <template>
   <section class="section">
-    <h1 class="title">Experience</h1>
+    <h1 class="title">Relevant Experience</h1>
     <h2 class="subtitle">
-      This my job history and other relevant experience.
+      I have experience in full-stack development (front-end, middle-layer, and back-end), web development, and building SPAs.
     </h2>
     <div class="columns is-multiline">
       <div v-for="job in jobs" :key="job.title" class="column is-full">
@@ -29,7 +29,7 @@
   <section class="section">
     <h1 class="title">Projects</h1>
     <h2 class="subtitle">
-      These are projects I've worked on that are cool.
+      I have a rich catalog of personal and academic projects that I have used to learn new technologies and further develop my skillset.
     </h2>
     <div class="columns is-multiline">
       <div v-for="project in projects" :key="project.title" class="column is-full">

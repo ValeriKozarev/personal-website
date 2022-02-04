@@ -172,6 +172,13 @@
       "technologies": []
     },
     {
+      "name": "Stardew Valley Mod",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+      "logo": "",
+      "link": "",
+      "technologies": []
+    },
+    {
       "name": "Co-Author on NCSU Paper with Sarah Elder and Dr. Williams",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
       "logo": "",
@@ -204,67 +211,53 @@
   "technologies": [
     {
       "name": "Vue",
-      "logo": ""
+      "logo_type": "fab",
+      "logo": "vuejs"
     },
     {
       "name": "Python",
-      "logo": ""
-    },
-    {
-      "name": "C#",
-      "logo": ""
-    },
-    {
-      "name": "Ruby on Rails",
-      "logo": ""
-    },
-    {
-      "name": "Angular",
-      "logo": ""
-    },
-    {
-      "name": "React",
-      "logo": ""
-    },
-    {
-      "name": "HTML",
-      "logo": ""
-    },
-    {
-      "name": "CSS",
-      "logo": ""
+      "logo_type": "fab",
+      "logo": "python"
     },
     {
       "name": "JavaScript",
-      "logo": ""
+      "logo_type": "fab",
+      "logo": "js"
     },
     {
-      "name": "TypeScript",
-      "logo": ""
+      "name": "Ruby on Rails",
+      "logo_type": "fab",
+      "logo": "sketch"
+    },
+    {
+      "name": "Angular",
+      "logo_type": "fab",
+      "logo": "angular"
+    },
+    {
+      "name": "Node.js",
+      "logo_type": "fab",
+      "logo": "node"
+    },
+    {
+      "name": "HTML",
+      "logo_type": "fab",
+      "logo": "html5"
+    },
+    {
+      "name": "CSS",
+      "logo_type": "fab",
+      "logo": "css3-alt"
     },
     {
       "name": "AWS",
-      "logo": ""
+      "logo_type": "fab",
+      "logo": "aws"
     },
     {
       "name": "Git",
-      "logo": ""
-    },
-    {
-      "name": "SQL",
-      "logo": ""
-    },
-    {
-      "name": "SVN",
-      "logo": ""
-    },
-    {
-      "name": "Java",
-      "logo": ""
-    },
-    {
-      "name": "R",
-      "logo": ""
+      "logo_type": "fab",
+      "logo": "git-alt"
     }
   ]
 }

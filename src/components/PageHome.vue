@@ -7,11 +7,12 @@
     </div>
   </div>
   <section class="section">
-    <h1 class="title">Technologies</h1>
-    <h2 class="subtitle">Here is some stuff I can use</h2>
+    <h1 class="title">Skills</h1>
+    <h2 class="subtitle">Here are <strong>some</strong> of the technologies that I am skilled with, or at least the ones that I could find nice logos for on FontAwesome...</h2>
     <div class="columns is-multiline">
       <div v-for="technology in technologies" :key="technology.name" class="column is-one-fifth">
-        {{technology.name}}
+        <font-awesome-icon :icon="[technology.logo_type, technology.logo]" size="7x"/>
+        <h3>{{technology.name}}</h3>
       </div>
     </div>
   </section>
