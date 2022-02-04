@@ -1,4 +1,5 @@
-# valerikozarev.github.io
+# README
+This is the repo for my personal website! I created this using Vue 3, Vue Router 4, Node.js, and I used Bulma for styling.
 
 ## Project setup
 ```
