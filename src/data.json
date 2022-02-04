@@ -41,6 +41,7 @@
       "artwork": ""
     }
   ],
+
   "games": [
     {
       "title": "The Witcher 3",
@@ -70,6 +71,7 @@
       "artwork": ""
     }
   ],
+
   "books": [
     {
       "title": "Dune",
@@ -100,6 +102,164 @@
       "title": "The Martian",
       "author": "Andy Weir",
       "artwork": ""
+    }
+  ],
+
+  "jobs": [
+    {
+      "title": "Full-Stack Software Developer",
+      "company": "Epic Systems",
+      "start": "Aug 2020",
+      "end": "Jan 2022",
+      "technologies": []
+    },
+    {
+      "title": "Technology Analyst Intern",
+      "company": "Credit Suisse",
+      "start": "June 2019",
+      "end": "Aug 2019",
+      "technologies": []
+    },
+    {
+      "title": "Undergraduate Research Assistant (Williams)",
+      "company": "",
+      "start": "",
+      "end": "",
+      "technologies": []
+    },
+    {
+      "title": "Undergraduate Research Assistant (Shen)",
+      "company": "",
+      "start": "",
+      "end": "",
+      "technologies": []
+    },
+    {
+      "title": "Database Development Intern",
+      "company": "",
+      "start": "",
+      "end": "",
+      "logo": "",
+      "technologies": []
+    }
+  ],
+
+  "projects": [
+    {
+      "name": "Cloudinator",
+      "description": "",
+      "logo": "",
+      "link": "",
+      "technologies": []
+    },
+    {
+      "name": "Vibecheck",
+      "description": "",
+      "logo": "",
+      "link": "",
+      "technologies": []
+    },
+    {
+      "name": "Valerium",
+      "description": "",
+      "logo": "",
+      "link": "",
+      "technologies": []
+    },
+    {
+      "name": "Co-Author on NCSU Paper with Sarah Elder and Dr. Williams",
+      "description": "",
+      "logo": "",
+      "link": "",
+      "technologies": []
+    },
+    {
+      "name": "Spectrum",
+      "description": "",
+      "logo": "",
+      "link": "",
+      "technologies": []
+    },
+    {
+      "name": "StockThought PyBot",
+      "description": "",
+      "logo": "",
+      "link": "",
+      "technologies": []
+    },
+    {
+      "name": "MakesAHit",
+      "description": "",
+      "logo": "",
+      "link": "",
+      "technologies": []
+    }
+  ],
+
+  "technologies": [
+    {
+      "name": "Vue",
+      "logo": ""
+    },
+    {
+      "name": "Python",
+      "logo": ""
+    },
+    {
+      "name": "C#",
+      "logo": ""
+    },
+    {
+      "name": "Ruby on Rails",
+      "logo": ""
+    },
+    {
+      "name": "Angular",
+      "logo": ""
+    },
+    {
+      "name": "React",
+      "logo": ""
+    },
+    {
+      "name": "HTML",
+      "logo": ""
+    },
+    {
+      "name": "CSS",
+      "logo": ""
+    },
+    {
+      "name": "JavaScript",
+      "logo": ""
+    },
+    {
+      "name": "TypeScript",
+      "logo": ""
+    },
+    {
+      "name": "AWS",
+      "logo": ""
+    },
+    {
+      "name": "Git",
+      "logo": ""
+    },
+    {
+      "name": "SQL",
+      "logo": ""
+    },
+    {
+      "name": "SVN",
+      "logo": ""
+    },
+    {
+      "name": "Java",
+      "logo": ""
+    },
+    {
+      "name": "R",
+      "logo": ""
     }
   ]
 }
