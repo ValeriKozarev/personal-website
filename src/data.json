@@ -4,11 +4,69 @@
       "title": "Flow State",
       "artist": "Tash Sultana",
       "artwork": ""
+    },
+    {
+      "title": "Long Lost",
+      "artist": "Lord Huron",
+      "artwork": ""
+    },
+    {
+      "title": "RTJ 2",
+      "artist": "Run the Jewels",
+      "artwork": ""
+    },
+    {
+      "title": "Flower Boy",
+      "artist": "Tyler, The Creator",
+      "artwork": ""
+    },
+    {
+      "title": "Whatever People Say I Am, That's What I'm Not",
+      "artist": "Arctic Monkeys",
+      "artwork": ""
+    },
+    {
+      "title": "Vide Noir",
+      "artist": "Lord Huron",
+      "artwork": ""
+    },
+    {
+      "title": "Saturation II",
+      "artist": "BROCKHAMPTOM",
+      "artwork": ""
+    },
+    {
+      "title": "You & Your Friends",
+      "artist": "Peach Pit",
+      "artwork": ""
     }
   ],
   "games": [
     {
       "title": "The Witcher 3",
+      "artwork": ""
+    },
+    {
+      "title": "Fallout: New Vegas",
+      "artwork": ""
+    },
+    {
+      "title": "The Last of Us",
+      "artwork": ""
+    },
+    {
+      "title": "Forza Horizon",
+      "artwork": ""
+    },
+    {
+      "title": "Team Fortress 2",
+      "artwork": ""
+    },    {
+      "title": "Diablo 2",
+      "artwork": ""
+    },
+    {
+      "title": "Bloodborne",
       "artwork": ""
     }
   ],
@@ -16,6 +74,31 @@
     {
       "title": "Dune",
       "author": "Frank Herbert",
+      "artwork": ""
+    },
+    {
+      "title": "The Catcher in the Rye",
+      "author": "J.D Salinger",
+      "artwork": ""
+    },
+    {
+      "title": "Rich Dad, Poor Dad",
+      "author": "Robert T. Kiyosaki",
+      "artwork": ""
+    },
+    {
+      "title": "Born A Crime",
+      "author": "Trevor Noah",
+      "artwork": ""
+    },
+    {
+      "title": "Brave New World",
+      "author": "Aldous Huxley",
+      "artwork": ""
+    },
+    {
+      "title": "The Martian",
+      "author": "Andy Weir",
       "artwork": ""
     }
   ]
