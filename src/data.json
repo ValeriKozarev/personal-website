@@ -109,6 +109,7 @@
     {
       "title": "Full-Stack Software Developer",
       "company": "Epic Systems",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
       "start": "Aug 2020",
       "end": "Jan 2022",
       "technologies": []
@@ -116,27 +117,31 @@
     {
       "title": "Technology Analyst Intern",
       "company": "Credit Suisse",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
       "start": "June 2019",
       "end": "Aug 2019",
       "technologies": []
     },
     {
       "title": "Undergraduate Research Assistant (Williams)",
-      "company": "",
+      "company": "NC State",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
       "start": "",
       "end": "",
       "technologies": []
     },
     {
       "title": "Undergraduate Research Assistant (Shen)",
-      "company": "",
+      "company": "NC State",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
       "start": "",
       "end": "",
       "technologies": []
     },
     {
       "title": "Database Development Intern",
-      "company": "",
+      "company": "PeopleFluent",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
       "start": "",
       "end": "",
       "logo": "",
@@ -147,49 +152,49 @@
   "projects": [
     {
       "name": "Cloudinator",
-      "description": "",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
       "logo": "",
       "link": "",
       "technologies": []
     },
     {
       "name": "Vibecheck",
-      "description": "",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
       "logo": "",
       "link": "",
       "technologies": []
     },
     {
       "name": "Valerium",
-      "description": "",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
       "logo": "",
       "link": "",
       "technologies": []
     },
     {
       "name": "Co-Author on NCSU Paper with Sarah Elder and Dr. Williams",
-      "description": "",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
       "logo": "",
       "link": "",
       "technologies": []
     },
     {
       "name": "Spectrum",
-      "description": "",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
       "logo": "",
       "link": "",
       "technologies": []
     },
     {
       "name": "StockThought PyBot",
-      "description": "",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
       "logo": "",
       "link": "",
       "technologies": []
     },
     {
       "name": "MakesAHit",
-      "description": "",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
       "logo": "",
       "link": "",
       "technologies": []
