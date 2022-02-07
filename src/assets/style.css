@@ -9,9 +9,12 @@
   margin-top: 20px;
 }
 
-h2 {
-  text-align: left;
-  font-size: larger;
+.container p {
+  font-size: large;
+}
+
+.hero {
+  color: #42b883;
 }
 
 .navbar-item {
