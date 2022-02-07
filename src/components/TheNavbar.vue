@@ -13,7 +13,7 @@
     </div>
 
     <div id="navbarBasicExample" class="navbar-menu">
-      <div class="navbar-start">
+      <div class="navbar-end">
         <router-link :to="{name: 'Home'}" class="navbar-item">Home</router-link>
         <router-link :to="{name: 'About'}" class="navbar-item">About</router-link>
         <router-link :to="{name: 'Portfolio'}" class="navbar-item">Portfolio</router-link>
