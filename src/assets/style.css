@@ -13,3 +13,21 @@ h2 {
   text-align: left;
   font-size: larger;
 }
+
+.navbar-item {
+  font-size: 1.25rem;
+}
+
+.navbar-link.is-active, .navbar-link:focus, .navbar-link:focus-within, .navbar-link:hover, a.navbar-item.is-active, a.navbar-item:focus, a.navbar-item:focus-within, a.navbar-item:hover {
+  color: #42b883;
+}
+
+.column svg {
+  font-size: 7rem;
+  transition: all 0.5s;
+}
+
+.column svg:hover {
+  font-size: 8rem;
+  color: #42b883;
+}
