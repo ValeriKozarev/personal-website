@@ -5,11 +5,11 @@
       I am a Software Engineer with experience in full-stack development and building SPAs.
     </h2>
     <br />
-    <div class="columns is-multiline">
-      <div v-for="job in jobs" :key="job.title" class="column is-full">
+    <div class="columns is-multiline is-mobile">
+      <div v-for="job in jobs" :key="job.title" class="column is-10 is-offset-1">
         <article class="media">
           <figure class="media-left">
-            <p class="image is-64x64">
+            <p class="image is-128x128">
               <img src="https://bulma.io/images/placeholders/128x128.png">
             </p>
           </figure>
@@ -30,14 +30,14 @@
   <section class="section">
     <h1 class="title">Projects</h1>
     <h2 class="subtitle">
-      I have a rich catalog of personal and academic projects that I have used to learn new technologies and further develop my skillset.
+      I use personal projects as a way to learn new skills. See my GitHub for more things that I've made!
     </h2>
     <br />
-    <div class="columns is-multiline">
-      <div v-for="project in projects" :key="project.title" class="column is-full">
+    <div class="columns is-multiline is-mobile">
+      <div v-for="project in projects" :key="project.title" class="column is-10 is-offset-1">
         <article class="media">
           <figure class="media-left">
-            <p class="image is-64x64">
+            <p class="image is-128x128">
               <img src="https://bulma.io/images/placeholders/128x128.png">
             </p>
           </figure>

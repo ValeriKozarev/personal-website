@@ -107,101 +107,83 @@
 
   "jobs": [
     {
-      "title": "Full-Stack Software Developer",
+      "title": "Full-Stack Software Developer, MyChart",
       "company": "Epic Systems",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+      "description": "While working on MyChart, I had the opportunity to lead and participate in several large-scale, multi-release projects so I was responsible for managing, designing, and implementing major new functionality in several areas. Throughout my time at Epic, I was a top performer on my team that consistently delivered high-quality results dno matter the circumstances. I got a lot of valuable experience working in high-pressure situations, managing large projects, and designing/developing software that was feature-complete and welcoming to all users.",
       "start": "Aug 2020",
-      "end": "Jan 2022",
-      "technologies": []
+      "end": "Jan 2022", 
+      "logo": "",
+      "technologies": ["C#", ".NET", "JavaScript", "TypeScript", "Cache", "Handlebars", "SASS"]
     },
     {
       "title": "Technology Analyst Intern",
       "company": "Credit Suisse",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+      "description": "During my internship at Credit Suisse, I worked on a small, agile team to create a internal chatbot for financial data. I was responsible for implementing the web-scraping functionality and the integration with third-party machine-learning services such as Microsoft QnAMaker and LUIS.",
       "start": "June 2019",
       "end": "Aug 2019",
+      "logo": "",
+      "technologies": ["Python", "Flask", "QnAMaker", "LUIS"]
+    },
+    {
+      "title": "Undergraduate Research Assistant, Dr. Williams",
+      "company": "NC State",
+      "description": "As a URA for Dr. Williams, I contributed to on-going projects and research centered around security and security education. My primary tasks were to explore tools that could aid the research team, configure and maintain test environments, and quantify results. I am a co-author on a paper that was accepted to ICSE-JSEET 2021.",
+      "start": "Sep 2019",
+      "end": "May 2020",
+      "logo": "",
       "technologies": []
     },
     {
-      "title": "Undergraduate Research Assistant (Williams)",
+      "title": "Undergraduate Research Assistant, Dr. Shen",
       "company": "NC State",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
-      "start": "",
-      "end": "",
-      "technologies": []
-    },
-    {
-      "title": "Undergraduate Research Assistant (Shen)",
-      "company": "NC State",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
-      "start": "",
-      "end": "",
+      "description": "Under Dr. Shen's guidance, and in collaboration with Lawrence Livermore National Labs, I explored and quantified the results of different memory allocation techniques in high-performance computing clusters using CUDA C.",
+      "start": "Sep 2018",
+      "end": "May 2019",
+      "logo": "",
       "technologies": []
     },
     {
       "title": "Database Development Intern",
       "company": "PeopleFluent",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
-      "start": "",
-      "end": "",
+      "description": "The most notable accomplishment from my first internship was that I re-wrote an internal export tool in C# and improved the runtime over the previous solution by over 90%.",
+      "start": "May 2017",
+      "end": "Aug 2018",
       "logo": "",
-      "technologies": []
+      "technologies": ["C#", "T-SQL", "SSMS", "XML"]
     }
   ],
 
   "projects": [
     {
       "name": "Cloudinator",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+      "description": "Senior Design project at NC State led by Michael DeHaan, the founder of Ansible.We created an open-source automation platform to allow developers to more easily deploy and configure their Linux-based applications on various cloud platforms such as AWS and GCP. I was responsible for implementing the APIs for various AWS resources such as Load Balancers, Auto-scaling Groups, implementing deployment logic such as Blue/Green and Rolling deployments, and implementing various network topology elements such as Bastion Hosts and custom VPC configurations.",
       "logo": "",
       "link": "",
-      "technologies": []
+      "technologies": ["Python", "AWS"]
     },
     {
       "name": "Vibecheck",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+      "description": "Single-page web app that leverages Spotify APIs to allow users to sign-in with their Spotify accounts and visualize audio features of their playlists.",
       "logo": "",
       "link": "",
-      "technologies": []
+      "technologies": ["React", "TypeScript", "SASS"]
     },
     {
       "name": "Valerium",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+      "description": "Network Security was one of my favorite classes that I took as an undergrad, and one of the things we learned about in that class was blockchain technology. I found myself inspired to learn more about how cryptocurrencies use blockchain technology and tried my hand at creating my very own simple cryptocurrency in Python! Valerium is the result of that effort, it is a simple cryptocurrency that allows users to commit transactions, mine blocks, and reach consensus via Flask endpoints. It's not feature-complete or anything like that, but rather a small proof-of-concept to improve my own understanding. Buy, buy, buy! Valerium to the MOON!!!",
       "logo": "",
       "link": "",
       "technologies": []
     },
     {
       "name": "Stardew Valley Mod",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+      "description": "Stardew Valley is an incredible game, my girlfriend and I have sank lots and lots of hours into it, but there's a problem: unless you memorize all the villagers schedules and their permutations it can be really hard to find the person you need to interact with without going all over town looking for them. Needless to say, I got a bit tired of looking so I made this mod! It makes so that all villagers appear on your map so you can always find them!",
       "logo": "",
       "link": "",
-      "technologies": []
-    },
-    {
-      "name": "Co-Author on NCSU Paper with Sarah Elder and Dr. Williams",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
-      "logo": "",
-      "link": "",
-      "technologies": []
-    },
-    {
-      "name": "Spectrum",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
-      "logo": "",
-      "link": "",
-      "technologies": []
-    },
-    {
-      "name": "StockThought PyBot",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
-      "logo": "",
-      "link": "",
-      "technologies": []
-    },
-    {
-      "name": "MakesAHit",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+      "technologies": ["C#", "SMAPI"]
+    }, {
+      "name": "Rendezvous",
+      "description": "At PackHacks 2019, myself and three of my best friends created an app called Rendezvous which won the competition's MLH 'Best Use of Snapkit' Award! We used Swift and the new Creative Kit from the Snap API (which had released only ten days prior) to prototype a calendar app that allowed users to auto-generate unique stickers for their selected calendar events and post them to Snapchat.",
       "logo": "",
       "link": "",
       "technologies": []

@@ -9,9 +9,15 @@
   margin-top: 20px;
 }
 
+.media {
+  justify-content: center;
+  align-items: center;
+}
+
 .hero-text {
   float:left;
   width: 66%;
+  text-align: center;
 }
 
 .hero-pic {

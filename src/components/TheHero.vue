@@ -10,7 +10,9 @@
         </p>
       </div>
       <div class="hero-pic">
-        <img src="../../public/hero_pic.jpg" alt="picture of Val">
+        <figure class="image">
+          <img src="../../public/hero_pic.jpg" alt="picture of Val">
+        </figure>
       </div>
     </div>
   </div>
