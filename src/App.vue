@@ -2,23 +2,19 @@
   <div class="container">
     <the-navbar />
     <router-view />
-    <footer class="footer">
-      <div class="content has-text-centered">
-        <p>
-          Val will eventually put some links here so you can connect and talk a bit more :)
-        </p>
-      </div>
-    </footer>
+    <the-footer />
   </div>
 </template>
 
 <script>
 import TheNavbar from '@/components/TheNavbar'
+import TheFooter from '@/components/TheFooter'
 
 export default {
   name: 'App',
   components: {
-    TheNavbar
+    TheNavbar,
+    TheFooter
   }
 }
 </script>
