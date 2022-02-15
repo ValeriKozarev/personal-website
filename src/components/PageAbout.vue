@@ -5,23 +5,21 @@
     <div class="container has-text-centered">
       <br />
       <p>
-        I am a first-generation immigrant from Bulgaria currently working as a Software Engineer in the United States. I studied Computer Science and Statistics at NC State University in Raleigh, NC. I have experience in a variety of industries and with a variety of technologies. Currently, I am really interested in front-end development and cloud computing.
+        I am a first-generation immigrant from Bulgaria currently working as a Software Engineer in the United States. I studied Computer Science and Statistics at NC State University in Raleigh, NC. One of my favorite parts about software engineering is the flexibility and variety, it feels like there is always something cool and exciting on the horizon to learn about! I enjoy the ability to learn and create new things every day, and I find the limitless possibilities really exciting and motivating. Currently, I'm really interested in front-end development and the cloud computing space so I'm taking steps to develop my skills in those areas!
       </p>
       <br />
       <p>
-        I care deeply about the climate crisis, as well as the current health and wealth inequalities in the United States.
-      </p>
-      <br />
-      <p>
-        I really enjoy drinking coffee, playing guitar, and spending time in the great outdoors.
+        I believe that work/life balance is critical in leading a happy and fulfilling life, and its something that I place a lot of importance on. I really enjoy playing guitar, camping and hiking, and cooking. I'm an aspiring gearhead that enjoys learning about cars and motorcycles. I'm also a huge fan of traveling and learning about other cultures. On ocassion I like working on fun projects that bring together multiple hobbies such as building a SmartMirror or making mods for games that I like to play. A fun fact about me is that I won a national championship in ultimate frisbee when I was in high school!
       </p>
     </div>
     <br />
   </section>
 
   <section class="section">
-    <h2 class="title">Some of my Favorite Albums Are</h2>
-    <button class="randomize" @click="getRandomAlbums">Randomize</button>
+    <div class="recommendations">
+      <h2 class="title">Want some music recommendations?</h2>
+      <button class="button" @click="getRandomAlbums">Click Me for More!</button>
+    </div>
     <div class="columns is-multiline">
       <div v-for="album in albums" :key="album.title" class="column is-one-quarter">
         <div class="card album">
@@ -50,7 +48,7 @@ export default {
   },
   methods: {
     getImageUrl (album) {
-      return require('../assets/' + album.artwork)
+      return require('../assets/albums/' + album.artwork)
     },
     getInitAlbums () {
       const shuffled = sourceData.albums.sort(() => 0.5 - Math.random())
@@ -66,12 +64,23 @@ export default {
 
 <style scoped>
 .album {
-  background-color: aquamarine;
+  -webkit-filter: grayscale(100%);
+  -moz-filter: grayscale(100%);
+  filter: grayscale(100%);
+  transition: all 0.5s linear;
 }
-.book {
-  background-color: bisque;
+
+.album:hover {
+  -webkit-filter: grayscale(0%);
+  -moz-filter: grayscale(0%);
+  filter: grayscale(0%);
 }
-.game {
-  background-color: coral;
+
+.recommendations {
+  display: inline-flex;
+}
+
+.recommendations .button {
+  margin-left: 2em;
 }
 </style>
