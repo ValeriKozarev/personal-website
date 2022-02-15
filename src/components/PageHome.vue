@@ -1,7 +1,5 @@
 <template>
-  <section class="hero is-halfheight">
   <the-hero />
-  </section>
 
   <section class="section">
     <h1 class="title">Skills</h1>

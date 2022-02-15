@@ -1,9 +1,18 @@
 <template>
   <footer class="footer">
-    <div class="content has-text-centered">
-      <p>
-        Val will eventually put some links here so you can connect and talk a bit more :)
-      </p>
+    <div class="content">
+      <h2 class="footer-title">Want to connect? Find me here:</h2>
+      <div class="links">
+        <p>
+          <a href="https://www.linkedin.com/in/valeri-kozarev/" target="#">LinkedIn</a>
+          ||
+          <a href="https://github.com/ValeriKozarev" target="#">GitHub</a></p>
+      </div>
+      <div class="vue-branding">
+        <a href="https://vuejs.org/" target="#">
+          <img class="image is-48x48 vue-logo" alt="Vue logo" src="../assets/logo.png">
+        </a>
+      </div>
     </div>
   </footer>
 </template>
@@ -15,3 +24,30 @@ export default {
   }
 }
 </script>
+
+<style scoped>
+footer {
+  padding-bottom: 4em;
+}
+
+.footer-title {
+  text-align: left;
+}
+
+.links {
+  padding-top: 1em;
+  float: left;
+}
+
+.vue-branding {
+  float:right;
+}
+
+.vue-logo {
+  opacity: 40%;
+  transition: all 0.5s ease;
+}
+.vue-logo:hover {
+  opacity: 100%;
+}
+</style>
