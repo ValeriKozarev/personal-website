@@ -26,8 +26,8 @@
       <div v-for="album in albums" :key="album.title" class="column is-one-quarter">
         <div class="card album">
           <div class="card-image">
-            <figure class="image is-4by3">
-              <img :src="'../assets/' + album.artwork" :alt="'' + album.title + ' by ' + album.artist">
+            <figure class="image is-square">
+              <img :src="getImageUrl(album)" :alt="'' + album.title + ' by ' + album.artist">
             </figure>
           </div>
         </div>
@@ -49,6 +49,9 @@ export default {
     }
   },
   methods: {
+    getImageUrl (album) {
+      return require('../assets/' + album.artwork)
+    },
     getInitAlbums () {
       const shuffled = sourceData.albums.sort(() => 0.5 - Math.random())
       return shuffled.slice(0, 4)
