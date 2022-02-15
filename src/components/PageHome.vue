@@ -33,5 +33,9 @@ export default {
 </script>
 
 <style scoped>
-
+.title {
+  font-size: x-large;
+  font-weight: bolder;
+  margin-bottom: 1,5em;
+}
 </style>

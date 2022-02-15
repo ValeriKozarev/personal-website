@@ -1,7 +1,7 @@
 <template>
   <footer class="footer">
+    <h2 class="footer-title"><strong>Want to connect? Find me here!</strong></h2>
     <div class="content">
-      <h2 class="footer-title">Want to connect? Find me here:</h2>
       <div class="links">
         <p>
           <a href="https://www.linkedin.com/in/valeri-kozarev/" target="#">LinkedIn</a>
@@ -32,15 +32,25 @@ footer {
 
 .footer-title {
   text-align: left;
+  font-size: x-large;
+}
+
+.content {
+  max-width: 100%;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
 }
 
 .links {
   padding-top: 1em;
-  float: left;
+  padding-left: 2em;
+  text-align: left;
+  flex-basis: 90%;
 }
 
 .vue-branding {
-  float:right;
+  justify-content: center;
 }
 
 .vue-logo {
