@@ -42,69 +42,6 @@
     }
   ],
 
-  "games": [
-    {
-      "title": "The Witcher 3",
-      "artwork": ""
-    },
-    {
-      "title": "Fallout: New Vegas",
-      "artwork": ""
-    },
-    {
-      "title": "The Last of Us",
-      "artwork": ""
-    },
-    {
-      "title": "Forza Horizon",
-      "artwork": ""
-    },
-    {
-      "title": "Team Fortress 2",
-      "artwork": ""
-    },    {
-      "title": "Diablo 2",
-      "artwork": ""
-    },
-    {
-      "title": "Bloodborne",
-      "artwork": ""
-    }
-  ],
-
-  "books": [
-    {
-      "title": "Dune",
-      "author": "Frank Herbert",
-      "artwork": ""
-    },
-    {
-      "title": "The Catcher in the Rye",
-      "author": "J.D Salinger",
-      "artwork": ""
-    },
-    {
-      "title": "Rich Dad, Poor Dad",
-      "author": "Robert T. Kiyosaki",
-      "artwork": ""
-    },
-    {
-      "title": "Born A Crime",
-      "author": "Trevor Noah",
-      "artwork": ""
-    },
-    {
-      "title": "Brave New World",
-      "author": "Aldous Huxley",
-      "artwork": ""
-    },
-    {
-      "title": "The Martian",
-      "author": "Andy Weir",
-      "artwork": ""
-    }
-  ],
-
   "jobs": [
     {
       "title": "Full-Stack Software Developer, MyChart",
