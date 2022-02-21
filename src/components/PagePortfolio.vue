@@ -10,7 +10,7 @@
         <article class="media">
           <figure class="media-left">
             <p class="image is-128x128 is-square">
-              <img :src="getImageUrl(job)" :alt="'' + job.title + ' logo'">
+              <img :src="getJobImageUrl(job)" :alt="'' + job.title + ' logo'">
             </p>
           </figure>
           <div class="media-content">
@@ -37,8 +37,8 @@
       <div v-for="project in projects" :key="project.title" class="column is-10 is-offset-1">
         <article class="media">
           <figure class="media-left">
-            <p class="image is-128x128">
-              <img src="https://bulma.io/images/placeholders/128x128.png">
+            <p class="image is-128x128 is-square">
+              <img :src="getProjectImageUrl(project)" :alt="'' + project.title + ' logo'">
             </p>
           </figure>
           <div class="media-content">
@@ -48,6 +48,7 @@
                 <br>
                 {{project.description}}
               </p>
+              <a class="button" :href="project.link" target="#">Learn More!</a>
             </div>
           </div>
         </article>
@@ -70,8 +71,11 @@ export default {
     }
   },
   methods: {
-    getImageUrl (job) {
-      return require('../assets/' + job.logo)
+    getJobImageUrl (job) {
+      return require('../assets/jobs/' + job.logo)
+    },
+    getProjectImageUrl (project) {
+      return require('../assets/projects/' + project.logo)
     }
   }
 }
