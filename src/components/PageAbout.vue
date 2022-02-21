@@ -5,7 +5,7 @@
     <div class="container has-text-centered">
       <br />
       <p>
-        I am a first-generation immigrant from Bulgaria currently working as a Software Engineer in the United States. I studied Computer Science and Statistics at NC State University in Raleigh, NC. One of my favorite parts about software engineering is the flexibility and variety, it feels like there is always something cool and exciting on the horizon to learn about! I enjoy the ability to learn and create new things every day, and I find the limitless possibilities really exciting and motivating. Currently, I'm really interested in front-end development and the cloud computing space so I'm taking steps to develop my skills in those areas!
+        I am currently working as a Software Engineer at Alarm.com in Denver, CO. I am originally from Bulgaria, though I went to school in the United States. I studied Computer Science and Statistics at NC State University in Raleigh, NC and graduated Summa Cum Laude. I've worked in a variety of industries and with a variety of technologies, I love exploring new areas and learning new skills! One of my favorite parts about software engineering is the flexibility and variety, I enjoy being able to work from anywhere to constantly be challenged with new and interesting problems. There a lot of brilliant and creative individuals that create incredible things with code, and I find the act of creating something novel to be really exciting and motivating. Currently, I'm really interested in front-end development and the cloud computing space so I'm taking steps to develop my skills in those areas!
       </p>
       <br />
       <p>

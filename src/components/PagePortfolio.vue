@@ -9,8 +9,8 @@
       <div v-for="job in jobs" :key="job.title" class="column is-10 is-offset-1">
         <article class="media">
           <figure class="media-left">
-            <p class="image is-128x128">
-              <img src="https://bulma.io/images/placeholders/128x128.png">
+            <p class="image is-128x128 is-square">
+              <img :src="getImageUrl(job)" :alt="'' + job.title + ' logo'">
             </p>
           </figure>
           <div class="media-content">
@@ -67,6 +67,11 @@ export default {
     return {
       jobs: sourceData.jobs,
       projects: sourceData.projects
+    }
+  },
+  methods: {
+    getImageUrl (job) {
+      return require('../assets/' + job.logo)
     }
   }
 }

@@ -49,12 +49,21 @@
 
   "jobs": [
     {
+      "title": "Software Engineer II",
+      "company": "Alarm.com",
+      "description": "Currently working here!",
+      "start": "June 2022",
+      "end": "Present", 
+      "logo": "alarm.png",
+      "technologies": ["Ember.js", "C#", ".NET", "JavaScript", "SQL"]
+    },
+    {
       "title": "Full-Stack Software Developer, MyChart",
       "company": "Epic Systems",
       "description": "While working on MyChart, I had the opportunity to lead and participate in several large-scale, multi-release projects so I was responsible for managing, designing, and implementing major new functionality in several areas. Throughout my time at Epic, I was a top performer on my team that consistently delivered high-quality results dno matter the circumstances. I got a lot of valuable experience working in high-pressure situations, managing large projects, and designing/developing software that was feature-complete and welcoming to all users.",
       "start": "Aug 2020",
       "end": "Jan 2022", 
-      "logo": "",
+      "logo": "epic.png",
       "technologies": ["C#", ".NET", "JavaScript", "TypeScript", "Cache", "Handlebars", "SASS"]
     },
     {
@@ -63,7 +72,7 @@
       "description": "During my internship at Credit Suisse, I worked on a small, agile team to create a internal chatbot for financial data. I was responsible for implementing the web-scraping functionality and the integration with third-party machine-learning services such as Microsoft QnAMaker and LUIS.",
       "start": "June 2019",
       "end": "Aug 2019",
-      "logo": "",
+      "logo": "credit_suisse.png",
       "technologies": ["Python", "Flask", "QnAMaker", "LUIS"]
     },
     {
@@ -72,7 +81,7 @@
       "description": "As a URA for Dr. Williams, I contributed to on-going projects and research centered around security and security education. My primary tasks were to explore tools that could aid the research team, configure and maintain test environments, and quantify results. I am a co-author on a paper that was accepted to ICSE-JSEET 2021.",
       "start": "Sep 2019",
       "end": "May 2020",
-      "logo": "",
+      "logo": "nc_state.png",
       "technologies": []
     },
     {
@@ -81,7 +90,7 @@
       "description": "Under Dr. Shen's guidance, and in collaboration with Lawrence Livermore National Labs, I explored and quantified the results of different memory allocation techniques in high-performance computing clusters using CUDA C.",
       "start": "Sep 2018",
       "end": "May 2019",
-      "logo": "",
+      "logo": "nc_state.png",
       "technologies": []
     },
     {
@@ -90,7 +99,7 @@
       "description": "The most notable accomplishment from my first internship was that I re-wrote an internal export tool in C# and improved the runtime over the previous solution by over 90%.",
       "start": "May 2017",
       "end": "Aug 2018",
-      "logo": "",
+      "logo": "peoplefluent.jpg",
       "technologies": ["C#", "T-SQL", "SSMS", "XML"]
     }
   ],

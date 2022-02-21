@@ -3,7 +3,7 @@
 
   <section class="section">
     <h2 class="title">Skills</h2>
-    <h3 class="subtitle">Here are <strong>some</strong> of the technologies that I am skilled with, or at least the ones that I could find nice logos for on FontAwesome...</h3>
+    <h3 class="subtitle">Here are <strong>some</strong> of the technologies that I am skilled with, though this not a comprehensive list and I am comfortable learning new ones! </h3>
     <div class="columns is-multiline">
       <div v-for="technology in technologies" :key="technology.name" class="column is-one-fifth">
         <font-awesome-icon :icon="[technology.logo_type, technology.logo]" size="7x"/>

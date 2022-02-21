@@ -3,7 +3,7 @@
     <div class="hero-body">
       <div class="container has-text-centered">
         <div class="hero-text">
-          <p class="title">
+          <p class="hero-title">
             Hey, there! I'm Val. &#128075;&#127996;
           </p>
           <p>
@@ -67,9 +67,10 @@ export default {
   height: auto;
 }
 
-.title {
+.hero-title {
   margin-bottom: 1rem;
   font-size: larger;
+  font-weight: bolder;
 }
 
 </style>

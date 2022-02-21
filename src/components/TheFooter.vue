@@ -1,6 +1,6 @@
 <template>
   <footer class="footer">
-    <h2 class="footer-title"><strong>Want to connect? Find me here!</strong></h2>
+    <h2 class="footer-title">Want to connect? Find me here!</h2>
     <div class="content">
       <div class="links">
         <p>
@@ -33,6 +33,8 @@ footer {
 .footer-title {
   text-align: left;
   font-size: x-large;
+  color: #42b883;
+  font-weight: bolder;
 }
 
 .content {
