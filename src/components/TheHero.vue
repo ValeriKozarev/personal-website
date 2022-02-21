@@ -41,20 +41,35 @@ export default {
   box-shadow: 22px 22px #1F3D0C;
 }
 
+.container {
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
 .hero-text {
-  float:left;
-  width: 66%;
   text-align: center;
+  flex: 1 0 65%;
+  max-width: 100%;
 }
 
 .hero-pic {
-  padding-left: 2rem;
-  float:right;
-  width: 33%;
+  margin-top: 1em;
+  margin-left: 2em;
+  flex: 1 0 30%;
+  max-width: 100%;
+}
+
+.hero-pic img{
+  display: block;
+  max-width: 100%;
+  height: auto;
 }
 
 .title {
   margin-bottom: 1rem;
   font-size: larger;
 }
+
 </style>
