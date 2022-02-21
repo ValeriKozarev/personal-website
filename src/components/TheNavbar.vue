@@ -1,6 +1,14 @@
 <template>
   <nav class="navbar" role="navigation" aria-label="main navigation">
-    <div class="navbar-menu">
+    <div class="navbar-brand">
+      <a role="button" class="navbar-burger" aria-label="menu" aria-expanded="false" data-target="navbarBasic"
+      @click="showNav = !showNav" :class="{ 'is-active': showNav }">
+        <span aria-hidden="true"></span>
+        <span aria-hidden="true"></span>
+        <span aria-hidden="true"></span>
+      </a>
+    </div>
+    <div id="navbarBasic" class="navbar-menu" :class="{ 'is-active': showNav }">
       <div class="navbar-end">
         <router-link :to="{name: 'Home'}" class="navbar-item">Home</router-link>
         <router-link :to="{name: 'About'}" class="navbar-item">About</router-link>
@@ -12,7 +20,12 @@
 
 <script>
 export default {
-  name: 'TheNavbar'
+  name: 'TheNavbar',
+  data () {
+    return {
+      showNav: false
+    }
+  }
 }
 </script>
 
