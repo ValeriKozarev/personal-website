@@ -7,7 +7,7 @@
             Hey, there! I'm Val. &#128075;&#127996;
           </p>
           <p>
-            Welcome to my website, feel free to look around! I made this website as a way to put myself out there and let folks get to know before deciding if they want to work with me. Here's my elevator pitch: I'm a Software Engineer, a tree hugger, and a coffee lover. I really like cars, hockey, and camping. I am interested in learning new frameworks, developing interesting and beautiful applications, and making technology accessible to as many people as possible. Want to work together? If so, please reach out!
+            Welcome to my website, feel free to look around and let me know what you think! I made this to get some experience building websites and as a way to put myself out there in a way that's a bit more engaging that a résumé. I'm currently a Software Engineer in Colorado, primarily focusing on growing my skills as a front-end developer. I'm a coffee lover, a gearhead, an amateur musician, and a nature enthusiast. I am interested in learning new technologies, developing interesting and beautiful applications, and leveraging tech to have a positive impact in the word.
           </p>
         </div>
         <div class="hero-pic">

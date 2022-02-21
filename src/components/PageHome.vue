@@ -2,8 +2,8 @@
   <the-hero />
 
   <section class="section">
-    <h1 class="title">Skills</h1>
-    <h2 class="subtitle">Here are <strong>some</strong> of the technologies that I am skilled with, or at least the ones that I could find nice logos for on FontAwesome...</h2>
+    <h2 class="title">Skills</h2>
+    <h3 class="subtitle">Here are <strong>some</strong> of the technologies that I am skilled with, or at least the ones that I could find nice logos for on FontAwesome...</h3>
     <div class="columns is-multiline">
       <div v-for="technology in technologies" :key="technology.name" class="column is-one-fifth">
         <font-awesome-icon :icon="[technology.logo_type, technology.logo]" size="7x"/>
@@ -36,6 +36,16 @@ export default {
 .title {
   font-size: x-large;
   font-weight: bolder;
-  margin-bottom: 1,5em;
+  margin-bottom: 1.5em;
+}
+
+.column svg {
+  font-size: 7rem;
+  transition: all 0.5s;
+}
+
+.column svg:hover {
+  font-size: 8rem;
+  color: #42b883;
 }
 </style>
