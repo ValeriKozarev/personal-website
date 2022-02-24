@@ -1,4 +1,25 @@
-# valerikozarev.github.io
+# README
+This is the repo for my personal website! I created this using Vue 3, Vue Router 4, Node.js, and I used Bulma for styling.
 
-NOTE: Currently rewriting this from the ground up in Vue, who knows when I'll wrap that up though  
-This repo holds my current personal website! Feel free to take a look around. I'd say my understanding of HTML and CSS has come a long way since I first created a website but you can see for yourself by going to the legacy branch! Massive thanks to Jeff Nguyen, a good friend of mine who's website was a massive help in helping me fix issues when I got stuck and to this WordPen demo by Eric Porter which I used as the basis for my intro: https://codepen.io/EricPorter/pen/JjPmOOb.
+## Project setup
+```
+npm install
+```
+
+### Compiles and hot-reloads for development
+```
+npm run serve
+```
+
+### Compiles and minifies for production
+```
+npm run build
+```
+
+### Lints and fixes files
+```
+npm run lint
+```
+
+### Customize configuration
+See [Configuration Reference](https://cli.vuejs.org/config/).

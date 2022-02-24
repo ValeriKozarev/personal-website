@@ -1,0 +1,185 @@
+{
+  "albums": [
+    {
+      "title": "Flow State",
+      "artist": "Tash Sultana",
+      "artwork": "Tash_Sultana_Flow_State_Album_Artwork.png"
+    },
+    {
+      "title": "Nurture",
+      "artist": "Porter Robinson",
+      "artwork": "Porter_Robinson_Nurture.png"
+    },
+    {
+      "title": "Long Lost",
+      "artist": "Lord Huron",
+      "artwork": "Lord_Huron_Long_Lost.png"
+    },
+    {
+      "title": "RTJ 2",
+      "artist": "Run the Jewels",
+      "artwork": "RunTheJewelsRTJ2.jpg"
+    },
+    {
+      "title": "Flower Boy",
+      "artist": "Tyler, The Creator",
+      "artwork": "Tyler_the_Creator_Flower_Boy.png"
+    },
+    {
+      "title": "Whatever People Say I Am, That's What I'm Not",
+      "artist": "Arctic Monkeys",
+      "artwork": "Arctic_Monkeys_Whatever_People_Say.jpg"
+    },
+    {
+      "title": "Vide Noir",
+      "artist": "Lord Huron",
+      "artwork": "Lord_Huron_Vide_Noir.jpg"
+    },
+    {
+      "title": "Saturation II",
+      "artist": "BROCKHAMPTOM",
+      "artwork": "Brockhampton_Saturation_II.png"
+    },
+    {
+      "title": "You & Your Friends",
+      "artist": "Peach Pit",
+      "artwork": "Peach_Pit.jpg"
+    }
+  ],
+
+  "jobs": [
+    {
+      "title": "Software Engineer II",
+      "company": "Alarm.com",
+      "description": "Currently working here!",
+      "start": "June 2022",
+      "end": "Present", 
+      "logo": "alarm.png"
+    },
+    {
+      "title": "Full-Stack Software Developer, MyChart",
+      "company": "Epic Systems",
+      "description": "While working on MyChart, I had the opportunity to lead and participate in several large-scale, multi-release projects so I was responsible for managing, designing, and implementing major new functionality in several areas. Throughout my time at Epic, I was a top performer on my team that consistently delivered high-quality results dno matter the circumstances. I got a lot of valuable experience working in high-pressure situations, managing large projects, and designing/developing software that was feature-complete and welcoming to all users.",
+      "start": "Aug 2020",
+      "end": "Jan 2022", 
+      "logo": "epic.png"
+    },
+    {
+      "title": "Technology Analyst Intern",
+      "company": "Credit Suisse",
+      "description": "During my internship at Credit Suisse, I worked on a small, agile team to create a internal chatbot for financial data. I was responsible for implementing the web-scraping functionality and the integration with third-party machine-learning services such as Microsoft QnAMaker and LUIS.",
+      "start": "June 2019",
+      "end": "Aug 2019",
+      "logo": "credit_suisse.png"
+    },
+    {
+      "title": "Undergraduate Research Assistant, Dr. Williams",
+      "company": "NC State",
+      "description": "As a URA for Dr. Williams, I contributed to on-going projects and research centered around security and security education. My primary tasks were to explore tools that could aid the research team, configure and maintain test environments, and quantify results. I am a co-author on a paper that was accepted to ICSE-JSEET 2021.",
+      "start": "Sep 2019",
+      "end": "May 2020",
+      "logo": "nc_state.png"
+    },
+    {
+      "title": "Undergraduate Research Assistant, Dr. Shen",
+      "company": "NC State",
+      "description": "Under Dr. Shen's guidance, and in collaboration with Lawrence Livermore National Labs, I explored and quantified the results of different memory allocation techniques in high-performance computing clusters using CUDA C.",
+      "start": "Sep 2018",
+      "end": "May 2019",
+      "logo": "nc_state.png"
+    },
+    {
+      "title": "Database Development Intern",
+      "company": "PeopleFluent",
+      "description": "The most notable accomplishment from my first internship was that I re-wrote an internal export tool in C# and improved the runtime over the previous solution by over 90%.",
+      "start": "May 2017",
+      "end": "Aug 2018",
+      "logo": "peoplefluent.jpg"
+    }
+  ],
+
+  "projects": [
+    {
+      "name": "Cloudinator",
+      "description": "Senior Design project at NC State led by Michael DeHaan, the founder of Ansible.We created an open-source automation platform to allow developers to more easily deploy and configure their Linux-based applications on various cloud platforms such as AWS and GCP. I was responsible for implementing the APIs for various AWS resources such as Load Balancers, Auto-scaling Groups, implementing deployment logic such as Blue/Green and Rolling deployments, and implementing various network topology elements such as Bastion Hosts and custom VPC configurations.",
+      "logo": "cloudinator.png",
+      "link": "https://sdc.csc.ncsu.edu/projects/2020/spring#4"
+    },
+    {
+      "name": "Vibecheck",
+      "description": "Single-page web app that leverages Spotify APIs to allow users to sign-in with their Spotify accounts and visualize audio features of their playlists.",
+      "logo": "placeholder.svg",
+      "link": "https://github.com/ValeriKozarev/vibecheck"
+    },
+    {
+      "name": "Valerium",
+      "description": "Network Security was one of my favorite classes that I took as an undergrad, and one of the things we learned about in that class was blockchain technology. I found myself inspired to learn more about how cryptocurrencies use blockchain technology and tried my hand at creating my very own simple cryptocurrency in Python! Valerium is the result of that effort, it is a simple cryptocurrency that allows users to commit transactions, mine blocks, and reach consensus via Flask endpoints. It's not feature-complete or anything like that, but rather a small proof-of-concept to improve my own understanding. Buy, buy, buy! Valerium to the MOON!!!",
+      "logo": "placeholder.svg",
+      "link": "https://github.com/ValeriKozarev/Valerium"
+    },
+    {
+      "name": "Stardew Valley Mod",
+      "description": "Stardew Valley is an incredible game, my girlfriend and I have sank lots and lots of hours into it, but there's a problem: unless you memorize all the villagers schedules and their permutations it can be really hard to find the person you need to interact with without going all over town looking for them. Needless to say, I got a bit tired of looking so I made this mod! It makes so that all villagers appear on your map so you can always find them!",
+      "logo": "smapi.png",
+      "link": "https://github.com/ValeriKozarev"
+    }, {
+      "name": "Rendezvous",
+      "description": "At PackHacks 2019, myself and three of my best friends created an app called Rendezvous which won the competition's MLH 'Best Use of Snapkit' Award! We used Swift and the new Creative Kit from the Snap API (which had released only ten days prior) to prototype a calendar app that allowed users to auto-generate unique stickers for their selected calendar events and post them to Snapchat.",
+      "logo": "packhacks.png",
+      "link": "https://devpost.com/software/rendezvous-7t20g1"
+    }
+  ],
+
+  "technologies": [
+    {
+      "name": "Vue",
+      "logo_type": "fab",
+      "logo": "vuejs"
+    },
+    {
+      "name": "Python",
+      "logo_type": "fab",
+      "logo": "python"
+    },
+    {
+      "name": "JavaScript",
+      "logo_type": "fab",
+      "logo": "js"
+    },
+    {
+      "name": "Ember.js",
+      "logo_type": "fab",
+      "logo": "ember"
+    },
+    {
+      "name": "Angular",
+      "logo_type": "fab",
+      "logo": "angular"
+    },
+    {
+      "name": "Node.js",
+      "logo_type": "fab",
+      "logo": "node"
+    },
+    {
+      "name": "HTML",
+      "logo_type": "fab",
+      "logo": "html5"
+    },
+    {
+      "name": "CSS",
+      "logo_type": "fab",
+      "logo": "css3-alt"
+    },
+    {
+      "name": "AWS",
+      "logo_type": "fab",
+      "logo": "aws"
+    },
+    {
+      "name": "Git",
+      "logo_type": "fab",
+      "logo": "git-alt"
+    }
+  ]
+}
