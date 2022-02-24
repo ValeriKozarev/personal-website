@@ -1,7 +1,7 @@
 import { createApp } from 'vue'
 import { createRouter, createWebHistory } from 'vue-router'
 import { library } from '@fortawesome/fontawesome-svg-core'
-import { faVuejs, faPython, faAngular, faCss3Alt, faGitAlt, faAws, faJs, faJava, faNode, faSketch, faHtml5 } from '@fortawesome/free-brands-svg-icons'
+import { faVuejs, faPython, faAngular, faCss3Alt, faGitAlt, faAws, faJs, faJava, faNode, faHtml5, faEmber } from '@fortawesome/free-brands-svg-icons'
 import { faDatabase } from '@fortawesome/free-solid-svg-icons'
 import { FontAwesomeIcon } from '@fortawesome/vue-fontawesome'
 import App from './App.vue'
@@ -10,7 +10,7 @@ import PageAbout from '@/components/PageAbout'
 import PagePortfolio from '@/components/PagePortfolio'
 
 // add icons to library
-library.add(faDatabase, faVuejs, faPython, faAngular, faCss3Alt, faGitAlt, faAws, faJs, faJava, faNode, faSketch, faHtml5)
+library.add(faDatabase, faVuejs, faPython, faAngular, faCss3Alt, faGitAlt, faAws, faJs, faJava, faNode, faHtml5, faEmber)
 
 // define routes
 const routes = [

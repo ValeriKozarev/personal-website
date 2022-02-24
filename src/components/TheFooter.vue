@@ -1,19 +1,11 @@
 <template>
   <footer class="footer">
-    <h2 class="footer-title">Want to connect? Find me here!</h2>
-    <div class="content">
-      <div class="links">
-        <p>
-          <a href="https://www.linkedin.com/in/valeri-kozarev/" target="#">LinkedIn</a>
-          ||
-          <a href="https://github.com/ValeriKozarev" target="#">GitHub</a></p>
-      </div>
-      <div class="vue-branding">
-        <a href="https://vuejs.org/" target="#">
-          <img class="image is-48x48 vue-logo" alt="Vue logo" src="../assets/logo.png">
-        </a>
-      </div>
-    </div>
+    <span>
+      <h2 class="footer-title">Want to connect?</h2>
+    </span>
+    <span>
+      <h3 class="footer-subtitle">You can find me on <a href="https://www.linkedin.com/in/valeri-kozarev/" target="#">LinkedIn</a> and <a href="https://github.com/ValeriKozarev" target="#">GitHub</a></h3>
+    </span>
   </footer>
 </template>
 
@@ -28,13 +20,22 @@ export default {
 <style scoped>
 footer {
   padding-bottom: 4em;
+  text-align: left;
 }
 
 .footer-title {
-  text-align: left;
   font-size: x-large;
   color: #42b883;
   font-weight: bolder;
+}
+.footer-subtitle {
+  font-size: larger;
+  color: black;
+  font-weight: bold;
+}
+
+a:link {
+  text-decoration: none;
 }
 
 .content {
