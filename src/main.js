@@ -15,7 +15,7 @@ library.add(faDatabase, faVuejs, faPython, faAngular, faCss3Alt, faGitAlt, faAws
 // define routes
 const routes = [
   {
-    path: '/',
+    path: '/home',
     name: 'Home',
     component: PageHome
   },
@@ -28,10 +28,6 @@ const routes = [
     path: '/portfolio',
     name: 'Portfolio',
     component: PagePortfolio
-  },
-  {
-    path: '*',
-    component: PageHome
   }
 ]
 
