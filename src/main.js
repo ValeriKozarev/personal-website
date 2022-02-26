@@ -28,6 +28,10 @@ const routes = [
     path: '/portfolio',
     name: 'Portfolio',
     component: PagePortfolio
+  },
+  {
+    path: '*',
+    component: PageHome
   }
 ]
 
