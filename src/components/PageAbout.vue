@@ -25,7 +25,7 @@
         <div class="card album">
           <div class="card-image">
             <figure class="image is-square">
-              <img :src="getImageUrl(album)" :alt="'' + album.title + ' by ' + album.artist">
+              <a :href=album.link target="_blank"><img :src="getImageUrl(album)" :alt="'Album art for ' + album.title + ' by ' + album.artist"></a>
             </figure>
           </div>
         </div>

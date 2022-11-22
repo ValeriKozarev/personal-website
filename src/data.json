@@ -3,47 +3,98 @@
     {
       "title": "Flow State",
       "artist": "Tash Sultana",
-      "artwork": "Tash_Sultana_Flow_State_Album_Artwork.png"
+      "artwork": "Tash_Sultana_Flow_State_Album_Artwork.png",
+      "link": "https://open.spotify.com/album/5eOlKFDAN9dXwYycRqEmnP?si=5sskQnp9T62INu7ISbahsg"
     },
     {
       "title": "Nurture",
       "artist": "Porter Robinson",
-      "artwork": "Porter_Robinson_Nurture.png"
-    },
-    {
-      "title": "Long Lost",
-      "artist": "Lord Huron",
-      "artwork": "Lord_Huron_Long_Lost.png"
+      "artwork": "Porter_Robinson_Nurture.png",
+      "link": "https://open.spotify.com/album/4Hjqdhj5rh816i1dfcUEaM?si=HvAmbvMJR1ynQuJL7rJSXw"
     },
     {
       "title": "RTJ 2",
       "artist": "Run the Jewels",
-      "artwork": "RunTheJewelsRTJ2.jpg"
+      "artwork": "RunTheJewelsRTJ2.jpg",
+      "link": "https://open.spotify.com/album/6WBUyDe1Xy8QRwF6wzhJsY?si=Y47-N6NJTXWGhQ38Q-aA_A"
     },
     {
       "title": "Flower Boy",
       "artist": "Tyler, The Creator",
-      "artwork": "Tyler_the_Creator_Flower_Boy.png"
+      "artwork": "Tyler_the_Creator_Flower_Boy.png",
+      "link": "https://open.spotify.com/album/2nkto6YNI4rUYTLqEwWJ3o?si=S_uzp6sGQIm2ezVMocLGeg"
     },
     {
       "title": "Whatever People Say I Am, That's What I'm Not",
       "artist": "Arctic Monkeys",
-      "artwork": "Arctic_Monkeys_Whatever_People_Say.jpg"
+      "artwork": "Arctic_Monkeys_Whatever_People_Say.jpg",
+      "link": "https://open.spotify.com/album/0ndGMh4twJNzPpr5XtHTR2?si=m-MFlqWEQGOGgCJw6-KryQ"
     },
     {
       "title": "Vide Noir",
       "artist": "Lord Huron",
-      "artwork": "Lord_Huron_Vide_Noir.jpg"
+      "artwork": "Lord_Huron_Vide_Noir.jpg",
+      "link": "https://open.spotify.com/album/2oiJM8vFGpxrtGtFfJWhJv?si=66ur_lkOSQWVZ_r7TaPP5w"
     },
     {
       "title": "Saturation II",
       "artist": "BROCKHAMPTOM",
-      "artwork": "Brockhampton_Saturation_II.png"
+      "artwork": "Brockhampton_Saturation_II.png",
+      "link": "https://open.spotify.com/album/0XnqQzdSFAml08XZoRt1St?si=V3UkW1uiTESipwSthAr-Jw"
     },
     {
       "title": "You & Your Friends",
       "artist": "Peach Pit",
-      "artwork": "Peach_Pit.jpg"
+      "artwork": "Peach_Pit.jpg",
+      "link": "https://open.spotify.com/album/3Vk0be2qEuqARxrC6U5ZV3?si=pcVzNOvsT9q98ruV0Jtz_Q"
+    },
+    {
+      "title": "From 2 to 3",
+      "artist": "Peach Pit",
+      "artwork": "Peach_Pit_From_2_to_3.png",
+      "link": "https://open.spotify.com/album/291A3Ud0sbMSfmG48k6GQY?si=MARRDJKbRjKNj0y9rFdt8Q"
+    },
+    {
+      "title": "When We Were Friends",
+      "artist": "The Backseat Lovers",
+      "artwork": "Backseat_Lovers.jpg",
+      "link": "https://open.spotify.com/album/3TSMSh5dai7WEnEGOoMXBZ?si=fpHx8MAbQG-JIXW0CKZ_GQ"
+    },   
+    {
+      "title": "Remember That You Will Die",
+      "artist": "Polyphia",
+      "artwork": "Polyphia.jpg",
+      "link": "https://open.spotify.com/album/1BJtoy1VgHMMvotBwvylJ5?si=dv38ErmRScW_f_xvy81ZSg"
+    },    
+    {
+      "title": "Birth of the Cool",
+      "artist": "Miles Davis",
+      "artwork": "Birth_of_the_Cool.jpg",
+      "link": "https://open.spotify.com/album/0QWea2w5Y6pSoSWHuc7JMf?si=JMd8CJjJSz-QK8xar-i2Ag"
+    },    
+    {
+      "title": "Stick Season",
+      "artist": "Noah Kahan",
+      "artwork": "Noah_Kahan.png",
+      "link": "https://open.spotify.com/album/50ZenUP4O2Q5eCy2NRNvuz?si=k02Hvn03STe6t5JwAOzO4w"
+    },    
+    {
+      "title": "The Forever Story",
+      "artist": "JID",
+      "artwork": "JID.jpg",
+      "link": "https://open.spotify.com/album/3QVjpIxcksDkJmOnvlOJjg?si=R6rE6DNeRai3IlewGYKryA"
+    },
+    {
+      "title": "A Moment Apart",
+      "artist": "ODESZA",
+      "artwork": "ODESZA.jpg",
+      "link": "https://open.spotify.com/album/3VzsvmhnUb9OZ59bq2aoNZ?si=m_1cP4rPSxaEG73yP47_0A"
+    },
+    {
+      "title": "By and By",
+      "artist": "Caamp",
+      "artwork": "caamp.jpg",
+      "link": "https://open.spotify.com/album/4Ib3LE6FimfhNVnY7Tc1zM?si=Qc6Xe-ZORpy6fl_c43OJLg"
     }
   ],
 
