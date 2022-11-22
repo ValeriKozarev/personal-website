@@ -35,7 +35,7 @@ export default {
 }
 
 .navbar-link.is-active, .navbar-link:focus, .navbar-link:focus-within, .navbar-link:hover, a.navbar-item.is-active, a.navbar-item:focus, a.navbar-item:focus-within, a.navbar-item:hover {
-  color: #42b883;
+  color: #348D6D;
 }
 
 .navbar-item {
@@ -49,6 +49,6 @@ export default {
 
 .column svg:hover {
   font-size: 8rem;
-  color: #42b883;
+  color: #348D6D;
 }
 </style>

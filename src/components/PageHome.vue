@@ -46,6 +46,6 @@ export default {
 
 .column svg:hover {
   font-size: 8rem;
-  color: #42b883;
+  color: #348D6D;
 }
 </style>

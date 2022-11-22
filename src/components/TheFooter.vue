@@ -25,7 +25,7 @@ footer {
 
 .footer-title {
   font-size: x-large;
-  color: #42b883;
+  color: #348D6D;
   font-weight: bolder;
 }
 .footer-subtitle {

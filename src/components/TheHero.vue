@@ -30,7 +30,7 @@ export default {
 
 <style scoped>
 .hero {
-  background-color: #42b883;
+  background-color: #348D6D;
   border-radius: 10px;
 }
 
@@ -38,7 +38,7 @@ export default {
   border-radius: 20px;
   background-color: #f5f5f5;
   padding: 2rem;
-  box-shadow: 22px 22px #1F3D0C;
+  box-shadow: 22px 22px #1C4A38;
 }
 
 .container {
