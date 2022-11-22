@@ -85,4 +85,9 @@ export default {
 .portfolio-entry {
   padding: 2em 0em;
 }
+@media (max-width:629px) {
+  .image {
+    display: none
+  }
+}
 </style>

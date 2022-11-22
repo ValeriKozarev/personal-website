@@ -63,24 +63,37 @@ export default {
 </script>
 
 <style scoped>
-.album {
-  -webkit-filter: grayscale(100%);
-  -moz-filter: grayscale(100%);
-  filter: grayscale(100%);
-  transition: all 0.5s linear;
-}
 
-.album:hover {
-  -webkit-filter: grayscale(0%);
-  -moz-filter: grayscale(0%);
-  filter: grayscale(0%);
+@media (min-width: 769px) {
+  .album {
+    -webkit-filter: grayscale(100%);
+    -moz-filter: grayscale(100%);
+    filter: grayscale(100%);
+    transition: all 0.5s linear;
+  }
+  .album:hover {
+    -webkit-filter: grayscale(0%);
+    -moz-filter: grayscale(0%);
+    filter: grayscale(0%);
+  }
 }
 
 .recommendations {
-  display: inline-flex;
+  display: flex;
+  flex-wrap: wrap;
+  text-align: center;
+  justify-content: center;
 }
 
 .recommendations .button {
   margin-left: 2em;
+}
+
+@media (max-width:768px) {
+  .recommendations .button {
+    margin-left: 0em;
+    margin-bottom: 2em;
+    width: 100%
+  }
 }
 </style>
