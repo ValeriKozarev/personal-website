@@ -6,7 +6,7 @@
     </h2>
     <br />
     <div class="columns is-multiline is-mobile">
-      <div v-for="job in jobs" :key="job.title" class="column is-10 is-offset-1">
+      <div v-for="job in jobs" :key="job.title" class="column is-10 is-offset-1 portfolio-entry">
         <article class="media">
           <figure class="media-left">
             <p class="image is-128x128 is-square">
@@ -34,7 +34,7 @@
     </h2>
     <br />
     <div class="columns is-multiline is-mobile">
-      <div v-for="project in projects" :key="project.title" class="column is-10 is-offset-1">
+      <div v-for="project in projects" :key="project.title" class="column is-10 is-offset-1 portfolio-entry">
         <article class="media">
           <figure class="media-left">
             <p class="image is-128x128 is-square">
@@ -82,5 +82,7 @@ export default {
 </script>
 
 <style scoped>
-
+.portfolio-entry {
+  padding: 2em 0em;
+}
 </style>

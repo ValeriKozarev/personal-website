@@ -102,7 +102,7 @@
     {
       "title": "Software Engineer II",
       "company": "Alarm.com",
-      "description": "Currently working here!",
+      "description": "In this role I am primarily working as a web developer with a focus on accessibility.",
       "start": "June 2022",
       "end": "Present", 
       "logo": "alarm.png"
@@ -110,7 +110,7 @@
     {
       "title": "Full-Stack Software Developer, MyChart",
       "company": "Epic Systems",
-      "description": "While working on MyChart, I had the opportunity to lead and participate in several large-scale, multi-release projects so I was responsible for managing, designing, and implementing major new functionality in several areas. Throughout my time at Epic, I was a top performer on my team that consistently delivered high-quality results dno matter the circumstances. I got a lot of valuable experience working in high-pressure situations, managing large projects, and designing/developing software that was feature-complete and welcoming to all users.",
+      "description": "I had the opportunity to lead and participate in several large-scale, multi-release projects.  I was responsible for managing, designing, and implementing major new functionality for users. I made significant contributions to COVID-19 vaccination efforts in MyChart in unprecedented circumstances. Consistently ranked as a top performer on my team.",
       "start": "Aug 2020",
       "end": "Jan 2022", 
       "logo": "epic.png"
@@ -118,7 +118,7 @@
     {
       "title": "Technology Analyst Intern",
       "company": "Credit Suisse",
-      "description": "During my internship at Credit Suisse, I worked on a small, agile team to create a internal chatbot for financial data. I was responsible for implementing the web-scraping functionality and the integration with third-party machine-learning services such as Microsoft QnAMaker and LUIS.",
+      "description": "During my internship at Credit Suisse, I worked as part of a small, agile team to create a financial data chatbot. I was responsible for implementing the web-scraping functionality and the integration with third-party machine-learning services such as Microsoft QnAMaker and LUIS.",
       "start": "June 2019",
       "end": "Aug 2019",
       "logo": "credit_suisse.png"
@@ -126,7 +126,7 @@
     {
       "title": "Undergraduate Research Assistant, Dr. Williams",
       "company": "NC State",
-      "description": "As a URA for Dr. Williams, I contributed to on-going projects and research centered around security and security education. My primary tasks were to explore tools that could aid the research team, configure and maintain test environments, and quantify results. I am a co-author on a paper that was accepted to ICSE-JSEET 2021.",
+      "description": "I contributed to on-going projects and research centered around security and security education. My primary tasks were to explore tools that could aid the research team, configure and maintain test environments, and quantify results. I am a co-author on a paper that was accepted to ICSE-JSEET 2021 as well as a paper that was accepted into the Empirical Software Engineering Journal.",
       "start": "Sep 2019",
       "end": "May 2020",
       "logo": "nc_state.png"
@@ -134,7 +134,7 @@
     {
       "title": "Undergraduate Research Assistant, Dr. Shen",
       "company": "NC State",
-      "description": "Under Dr. Shen's guidance, and in collaboration with Lawrence Livermore National Labs, I explored and quantified the results of different memory allocation techniques in high-performance computing clusters using CUDA C.",
+      "description": "In collaboration with Lawrence Livermore National Labs, I explored and quantified the results of different memory allocation techniques in high-performance computing clusters using CUDA C.",
       "start": "Sep 2018",
       "end": "May 2019",
       "logo": "nc_state.png"
@@ -142,7 +142,7 @@
     {
       "title": "Database Development Intern",
       "company": "PeopleFluent",
-      "description": "The most notable accomplishment from my first internship was that I re-wrote an internal export tool in C# and improved the runtime over the previous solution by over 90%.",
+      "description": "During my internship I re-wrote an internal export tool and improved the runtime over the previous solution by over 90%.",
       "start": "May 2017",
       "end": "Aug 2018",
       "logo": "peoplefluent.jpg"
@@ -169,11 +169,6 @@
       "link": "https://github.com/ValeriKozarev/Valerium"
     },
     {
-      "name": "Stardew Valley Mod",
-      "description": "Stardew Valley is an incredible game, my girlfriend and I have sank lots and lots of hours into it, but there's a problem: unless you memorize all the villagers schedules and their permutations it can be really hard to find the person you need to interact with without going all over town looking for them. Needless to say, I got a bit tired of looking so I made this mod! It makes so that all villagers appear on your map so you can always find them!",
-      "logo": "smapi.png",
-      "link": "https://github.com/ValeriKozarev"
-    }, {
       "name": "Rendezvous",
       "description": "At PackHacks 2019, myself and three of my best friends created an app called Rendezvous which won the competition's MLH 'Best Use of Snapkit' Award! We used Swift and the new Creative Kit from the Snap API (which had released only ten days prior) to prototype a calendar app that allowed users to auto-generate unique stickers for their selected calendar events and post them to Snapchat.",
       "logo": "packhacks.png",
