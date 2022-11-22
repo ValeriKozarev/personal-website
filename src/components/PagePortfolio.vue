@@ -2,7 +2,7 @@
   <section class="section">
     <h1 class="title">Relevant Experience</h1>
     <h2 class="subtitle">
-      I am a Software Engineer with experience in full-stack development and building SPAs.
+      I am a Software Engineer with experience in full-stack development and building SPAs. I am currently interested in web development, accessibility, and cloud computing.
     </h2>
     <br />
     <div class="columns is-multiline is-mobile">
@@ -30,7 +30,7 @@
   <section class="section">
     <h1 class="title">Projects</h1>
     <h2 class="subtitle">
-      I use personal projects as a way to learn new skills. See my GitHub for more things that I've made!
+      I use personal projects as a way to learn new skills. Check out my GitHub for more things that I've made!
     </h2>
     <br />
     <div class="columns is-multiline is-mobile">

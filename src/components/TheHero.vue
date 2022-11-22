@@ -7,7 +7,7 @@
             Hey, there! I'm Val. &#128075;&#127996;
           </p>
           <p>
-            Welcome to my website, feel free to look around and let me know what you think! I made this to get some experience building websites and as a way to put myself out there in a way that's a bit more engaging that a résumé. I'm currently a Software Engineer in Colorado, primarily focusing on growing my skills as a front-end developer. I'm a coffee lover, a gearhead, an amateur musician, and a nature enthusiast. I am interested in learning new technologies, developing interesting and beautiful applications, and leveraging tech to have a positive impact in the word.
+            Welcome to my website, feel free to look around and get to know me a little bit better! I originally made this website because I was interested in learning the Vue.js framework and I thought a website would be a bit more fun to read than a resume copy. I'm currently an SE II at Alarm.com and I am based out of Colorado. At my job I am primarily working as a web developer with a focus on accessibility. Outside of work I am a coffee lover, a gearhead, an amateur musician, and a nature enthusiast. I am interested in learning new skills, developing interesting and beautiful applications, and lowering barriers through technology.
           </p>
         </div>
         <div class="hero-pic">
@@ -58,6 +58,7 @@ export default {
   margin-top: 1em;
   margin-left: 2em;
   flex: 1 0 30%;
+  align-content: center;
   max-width: 100%;
 }
 
