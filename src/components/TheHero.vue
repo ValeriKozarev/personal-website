@@ -3,9 +3,9 @@
     <div class="hero-body">
       <div class="container has-text-centered">
         <div class="hero-text">
-          <p class="hero-title">
+          <h1 class="hero-title">
             Hey, there! I'm Val. &#128075;&#127996;
-          </p>
+          </h1>
           <p>
             Welcome to my website, feel free to look around and get to know me a little bit better! I originally made this website because I was interested in learning the Vue.js framework and I thought a website would be a bit more fun to read than a resume copy. I'm currently an SE II at Alarm.com and I am based out of Colorado. At my job I am primarily working as a web developer with a focus on accessibility. Outside of work I am a coffee lover, a gearhead, an amateur musician, and a nature enthusiast. I am interested in learning new skills, developing interesting and beautiful applications, and lowering barriers through technology.
           </p>

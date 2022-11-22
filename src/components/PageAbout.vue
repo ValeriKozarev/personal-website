@@ -1,7 +1,7 @@
 <template>
   <section class="section">
-    <h2 class="title">About Me</h2>
-    <h3 class="subtitle">There's a bit more to everyone than just their job title, don't you think?</h3>
+    <h1 class="title">About Me</h1>
+    <h2 class="subtitle">There's a bit more to everyone than just their job title, don't you think?</h2>
     <div class="container has-text-centered">
       <br />
       <p>
