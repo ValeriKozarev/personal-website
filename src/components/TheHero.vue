@@ -12,7 +12,7 @@
         </div>
         <div class="hero-pic">
           <figure class="image">
-            <img src="../../public/hero_pic.jpg" alt="picture of Val">
+            <img src="../../public/hero2.jpg" alt="picture of Val">
           </figure>
         </div>
       </div>
@@ -49,23 +49,26 @@ export default {
 }
 
 .hero-text {
+  padding: 20px;
+  margin: auto;
   text-align: center;
-  flex: 1 0 65%;
+  flex: 2 1 50rem;
   max-width: 100%;
 }
 
 .hero-pic {
-  margin-top: 1em;
-  margin-left: 2em;
-  flex: 1 0 30%;
+  flex: 1 1 20rem;
   align-content: center;
   max-width: 100%;
 }
 
-.hero-pic img{
-  display: block;
-  max-width: 100%;
-  height: auto;
+.hero-pic img {
+  padding-top: 15px;
+  padding-bottom: 15px;
+  width: 250px;
+  height: 375px;
+  margin: auto;
+  border-radius: 80px;
 }
 
 .hero-title {
