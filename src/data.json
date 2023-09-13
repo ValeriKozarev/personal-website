@@ -178,19 +178,14 @@
 
   "technologies": [
     {
-      "name": "Vue",
-      "logo_type": "fab",
-      "logo": "vuejs"
-    },
-    {
-      "name": "Python",
-      "logo_type": "fab",
-      "logo": "python"
-    },
-    {
       "name": "JavaScript",
       "logo_type": "fab",
       "logo": "js"
+    },
+    {
+      "name": "Vue",
+      "logo_type": "fab",
+      "logo": "vuejs"
     },
     {
       "name": "Ember.js",
@@ -198,7 +193,12 @@
       "logo": "ember"
     },
     {
-      "name": "Angular",
+      "name": "React.js",
+      "logo_type": "fab",
+      "logo": "react"
+    },
+    {
+      "name": "Angular.js",
       "logo_type": "fab",
       "logo": "angular"
     },
@@ -218,14 +218,14 @@
       "logo": "css3-alt"
     },
     {
+      "name": "Python",
+      "logo_type": "fab",
+      "logo": "python"
+    },
+    {
       "name": "AWS",
       "logo_type": "fab",
       "logo": "aws"
-    },
-    {
-      "name": "Git",
-      "logo_type": "fab",
-      "logo": "git-alt"
     }
   ]
 }
