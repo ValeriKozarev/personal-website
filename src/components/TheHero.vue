@@ -7,7 +7,7 @@
             Hey, there! I'm Val. &#128075;&#127996;
           </h1>
           <p>
-            Welcome to my website, feel free to look around and get to know me a little bit better! I originally made this website because I was interested in learning the Vue.js framework and I thought a website would be a bit more fun to read than a resume copy. I'm currently an SE II at Alarm.com and I am based out of Colorado. At my job, I am primarily working as a web developer with a focus on accessibility. I like to switch things up and develop new skills, in previous roles I've been a full-stack engineer as well as a database developer. Outside of work I am a coffee lover, a gearhead, an amateur musician, and a nature enthusiast. I also recently started <a href="https://www.youtube.com/watch?v=0EO_m_Vh2Zk" target="_blank">DJing</a>! I am interested in learning new skills, developing interesting and beautiful applications, and lowering barriers through technology.
+            Welcome to my website, feel free to look around and get to know me a little bit better! I originally made this website because I was interested in learning the Vue.js framework and I thought a website would be a bit more fun to read than a resume copy. I'm currently an SE II at Alarm.com and I am based out of Colorado. Besides being a software engineer, I am a coffee lover, an amateur musician, and a nature enthusiast. I also recently started <a href="https://www.youtube.com/watch?v=0EO_m_Vh2Zk" target="_blank">DJing</a>! I am interested in learning new skills, developing interesting and beautiful applications, and lowering barriers through technology.
           </p>
         </div>
         <div class="hero-pic">
