@@ -21,6 +21,7 @@ export default {
 footer {
   padding-bottom: 4em;
   text-align: left;
+  border-radius: 20px;
 }
 
 .footer-title {
