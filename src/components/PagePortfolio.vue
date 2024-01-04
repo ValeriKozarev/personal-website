@@ -3,7 +3,7 @@
     <div class="section-header">
       <h1 class="title">Relevant Experience</h1>
       <h2 class="subtitle">
-        I am a Software Engineer with experience in full-stack development and building SPAs. I am currently interested in web development, accessibility, and cloud computing.
+        I am a Software Engineer with experience in full-stack development and building SPAs on the web. I am currently interested in web development, accessibility, and cloud computing.
       </h2>
     </div>
     <br />
