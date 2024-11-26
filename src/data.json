@@ -102,7 +102,7 @@
     {
       "title": "Software Engineer II",
       "company": "Alarm.com",
-      "description": "In this role I am primarily working as a web developer with a focus on accessibility.",
+      "description": "In this role I am primarily working as a full-stack developer, though I enjoy working on the front-end and getting involved with accessibility efforts.",
       "start": "June 2022",
       "end": "Present", 
       "logo": "alarm.png"
@@ -150,6 +150,12 @@
   ],
 
   "projects": [
+    {
+      "name": "echo-machine",
+      "description": "My latest endeavor. Stay tuned to find out more.",
+      "logo": "echo-machine.png",
+      "link": ""
+    },
     {
       "name": "Cloudinator",
       "description": "Senior Design project at NC State led by Michael DeHaan, the founder of Ansible.We created an open-source automation platform to allow developers to more easily deploy and configure their Linux-based applications on various cloud platforms such as AWS and GCP. I was responsible for implementing the APIs for various AWS resources such as Load Balancers, Auto-scaling Groups, implementing deployment logic such as Blue/Green and Rolling deployments, and implementing various network topology elements such as Bastion Hosts and custom VPC configurations.",

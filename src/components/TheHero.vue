@@ -7,12 +7,12 @@
             Hey, there! I'm Val. &#128075;&#127996;
           </h1>
           <p>
-            Welcome to my website, feel free to look around and get to know me a little bit better! I originally made this website because I was interested in learning the Vue.js framework and I thought a website would be a bit more fun to read than a resume copy. I'm currently working at Alarm.com as an SE II based out of Colorado. I am also a coffee lover, an amateur musician, and a nature enthusiast. A fun fact about me is that I recently started <a href="https://www.youtube.com/watch?v=0EO_m_Vh2Zk" target="_blank">DJing</a>! I love to tackle challenging problems, learn new skills, develop interesting and beautiful applications, and lower barriers through technology.
+            Welcome to my website, feel free to look around and get to know me a little bit better! I originally made this website because I was interested in learning the Vue.js framework and I thought a website would be a bit more fun to read than a resume copy. I'm currently working at Alarm.com as an SE II. I love music, photography, cooking, and anything outdoorsy. A fun fact about me is that I recently started <a href="https://www.youtube.com/watch?v=0EO_m_Vh2Zk" target="_blank">DJing</a>! I love working as a software engineer because I'm really drawn to solving challenging problems, constantly learning new skills, developing interesting and beautiful applications, and lowering barriers through technology.
           </p>
         </div>
         <div class="hero-pic">
           <figure class="image">
-            <img src="../../public/new_pic2.jpg" alt="picture of Val">
+            <img src="../../public/film_photo.jpeg" alt="picture of Val">
           </figure>
         </div>
       </div>
@@ -65,10 +65,8 @@ export default {
 .hero-pic img {
   padding-top: 15px;
   padding-bottom: 15px;
-  width: 250px;
-  height: 375px;
   margin: auto;
-  border-radius: 80px;
+  border-radius: 100px;
 }
 
 .hero-title {
